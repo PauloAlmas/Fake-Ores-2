@@ -1,0 +1,32 @@
+#Other
+itemGroup.fakeOresTab=Separador de Falsos Minérios
+
+#Items
+item.antiOresBlade.name=Espada Anti Minério
+item.boss_fragment_1.name=Fragmento do Guardião 1
+item.boss_fragment_2.name= Fragmento do Guardião 2
+item.boss_fragment_3.name= Fragmento do Guardião 3
+item.boss_fragment_4.name= Fragmento do Guardião 4
+item.boss_spawner.name=Minérios para Invocação de Guardião
+
+#Blocks
+tile.antiOreStone.name=Pedra de anti minério
+
+#Entities
+entity.fakeores.DiamondOre.name=Minério de Diamante Falso
+entity.fakeores.CoalOre.name=Minério de Carvão Falso
+entity.fakeores.EmeraldOre.name=Minério de Esmeralda Falsa
+entity.fakeores.GoldOre.name= Minério de Ouro Falso
+entity.fakeores.IronOre.name= Minério de Ferro Falso
+entity.fakeores.LapisOre.name=Minério de Lápis Falso
+entity.fakeores.NetherQuartzOre.name=Minério de Quartzo Falso
+entity.fakeores.RedstoneOre.name=Minério de Redstone Falsa
+entity.fakeores.OresBoss.name=Chefes de Minério
+entity.fakeores.OresBoss.name=Chefes de Minério
+
+#Achievements
+achievement.broken_Cup=Copo partido !
+achievement.broken_Cup.desc=Partido um Copo !
+
+achievement.boss_defeated=Guardião Derrotado !
+achievement.boss_defeated.desc=Mata o Chefe !
